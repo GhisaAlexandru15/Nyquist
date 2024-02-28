@@ -1,0 +1,1 @@
+Identificare sistem ordin 2 cu ajutorul diagramei Nyquist. Funcția "identificare" ia ca parametru numele unui fișier csv, care conține semnalele de intrare și de ieșire ale unui sistem de ordin doi și îi calculează funcția de tranfer.
