@@ -1,1 +1,1 @@
-Identificare sistem ordin 2 cu ajutorul diagramei Nyquist. Funcția "identificare" ia ca parametru numele unui fișier csv (ex: identificare("Date/3")), care conține semnalele de intrare și de ieșire ale unui sistem de ordin doi și calculează funcția de transfer a sistemului.
+Automatic identification of a second order system using the Nyquist plot. The function "identificare" takes as parameter the name of a csv file (ex: identificare("Date/3")), which has the input and output signals of a second order system and determines its tranfer function.
